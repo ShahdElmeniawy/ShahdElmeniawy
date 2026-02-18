@@ -6,8 +6,9 @@
 <hr style="margin:20px 0px;">
 
 
-# <p align="center"> *Shahd Mohamed ElMeniawy* </p>
-
+<img src="./images/nameImg.png" width="100%">
+<br>
+<br>
 <div align="center" style="background: linear-gradient(90deg, #7851A9, #000000); padding: 20px; border-radius: 12px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%8F%86+ACPC+Finalist;Instructor+%40+Coach+Academy;MERN+Full+Stack+Trainer+%40+ITI;Competitive+Programmer+%26+Problem+Solver;" alt="Typing SVG" />
