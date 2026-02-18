@@ -5,7 +5,8 @@
         /* font-family: serif; */
      ">
  Welcome to my GitHub profile
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:30%; display: block;"/>
+ <br>
+ <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:30%; display: block;"/>
 </div>
 
 <hr style="margin:20px 0px;">
@@ -32,7 +33,7 @@
 
 <br/>
 
-<div style="display:flex; gap:10px; justify-content:center">
+<div align="ceter" style="display:flex; gap:10px; justify-content:center">
   <a href="mailto:shahedmohamed180@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 6px;"/>
   </a>
@@ -74,11 +75,11 @@ I value continuous learning, consistency, and growth. both in the code I write a
 
 ---
 ## 🔗 Where to Find Me
-<ul style="display:flex; justify-content:space-around;list-style:none; font-size:18px; font-style:italic">
-<li> <a style="color:white;" href="https://codeforces.com/profile/SeriousBoma"> Codeforces </a> </li>
-<li> <a style="color:white;" href="https://leetcode.com/u/Shahd_Elmeniawy/"> LeetCode </a> </li>
-<li> <a style="color:white;" href="https://atcoder.jp/users/Shahd_Elmeniawy"> AtCoder </a> </li>
-<li> <a style="color:white;"href="https://icpc.global/ICPCID/2138EV1VRBUW"> ICPC Global </a> </li>
-</ul>
+<p align="center">
+  <a style="color: white;" href="https://codeforces.com/profile/SeriousBoma">Codeforces</a> •
+  <a style="color: white;" href="https://leetcode.com/u/Shahd_Elmeniawy/">LeetCode</a> •
+  <a style="color: white;"  href="https://atcoder.jp/users/Shahd_Elmeniawy">AtCoder</a> •
+  <a style="color: white;" href="https://icpc.global/ICPCID/2138EV1VRBUW">ICPC Global</a>
+</p>
 
 > I enjoy problem-solving and occasionally compete in programming contests.
