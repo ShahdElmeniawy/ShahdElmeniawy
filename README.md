@@ -1,29 +1,12 @@
-<div align="center" style="
-        color: white;
-        font-size: 18px;
-        font-weight: 400;
-        /* font-family: serif; */
-     ">
- Welcome to my GitHub profile
- <br>
- <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:30%; display: block;"/>
-</div>
+# <p align="center">Welcome to my GitHub profile </p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:40%; display: block;"/>
+</p>
 
 <hr style="margin:20px 0px;">
 
 
-<div align="center" 
-     style="
-        color: white;
-        font-size: 32px;
-        font-weight: 1000;
-        font-family: serif;
-        font-style:italic;
-     ">
-  Shahd Mohamed ElMeniawy
-</div>
-
-<br>
+# <p align="center"> *Shahd Mohamed ElMeniawy* </p>
 
 <div align="center" style="background: linear-gradient(90deg, #7851A9, #000000); padding: 20px; border-radius: 12px;">
   <a href="https://git.io/typing-svg">
@@ -33,17 +16,17 @@
 
 <br/>
 
-<div align="ceter" style="display:flex; gap:10px; justify-content:center">
+<p align="center">
   <a href="mailto:shahedmohamed180@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ShahdElmeniawy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/shahdelmeniawy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-</div>
+</p>
 
 <hr style="margin:20px 0px;">
 
@@ -75,11 +58,22 @@ I value continuous learning, consistency, and growth. both in the code I write a
 
 ---
 ## 🔗 Where to Find Me
+
 <p align="center">
-  <a style="color: white;" href="https://codeforces.com/profile/SeriousBoma">Codeforces</a> •
-  <a style="color: white;" href="https://leetcode.com/u/Shahd_Elmeniawy/">LeetCode</a> •
-  <a style="color: white;"  href="https://atcoder.jp/users/Shahd_Elmeniawy">AtCoder</a> •
-  <a style="color: white;" href="https://icpc.global/ICPCID/2138EV1VRBUW">ICPC Global</a>
+  <a href="https://codeforces.com/profile/SeriousBoma" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1ff7f3?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://icpc.global/ICPCID/2138EV1VRBUW" target="_blank">
+    <img src="https://img.shields.io/badge/ICPC-f71f1f?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC Global"/>
+  </a>
+  <a href="https://leetcode.com/u/Shahd_Elmeniawy/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-f7cf1f?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://atcoder.jp/users/Shahd_Elmeniawy" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-b09b9b?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
 </p>
+
+
 
 > I enjoy problem-solving and occasionally compete in programming contests.
