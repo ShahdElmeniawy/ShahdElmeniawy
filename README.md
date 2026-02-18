@@ -1,9 +1,6 @@
-# <p align="center">Welcome to my GitHub profile </p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:40%; display: block;"/>
+# <p align="center">Welcome to my GitHub profile </p> <p align = "center" > <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxM2IycDBqamdzOWh1OHh3Z3lnc2dmaDh5aDMwamI4ZXQ0N3pxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" alt="hello" style="width:40%; display: block;"/>
 </p>
 
-<hr style="margin:20px 0px;">
 
 
 <img src="./images/nameImg.png" width="100%">
