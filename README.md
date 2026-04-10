@@ -51,7 +51,7 @@ I value continuous learning, consistency, and growth. both in the code I write a
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,js,nodejs,react,ts,express,bootstrap,tailwind,mysql,cpp,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=figma,js,ts,nodejs,express,graphql,mysql,mongodb,html,css,angular,react,bootstrap,tailwind,cpp" />
 </div>
 
 ---
